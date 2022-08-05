@@ -3,6 +3,7 @@ body {
   background-color: #131313;
   }
 
+<<<<<<< Updated upstream
 .parrafo1{
   text-align: center;
 }
@@ -13,3 +14,11 @@ h1 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
+=======
+  h1 {
+
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+>>>>>>> Stashed changes
